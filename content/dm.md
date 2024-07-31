@@ -15,100 +15,291 @@ Keep out!
 ---
 
 **Priorities:**
-1. Danger
+1. Finish (Closure)
 2. Character
 3. Tone
 
 ---
 
-## Session 18
+## Session 19
+
+Bookkeeping
+* Lance will be considered "out" for this scenario. We will retroactively say that he remains outside, with the other group.
+  * I will allow the party to change him out for another of the group. Shar, Gascoigne, or Lucia.
+  * I will allow the party to change the telepathy around as well. We already have Shar, Alice, Lazarus, and ...
+* Who has the half of the Crown of Light?
+
 
 **The Heist**
+Midday, heavy rainfall.
+Two groups are within the walls of Davon's Keep. One remains without.
+* Asha, Alice, and Eugenia sneak in the back way.
+* Lazarus rides, feigning death, on a cart pulled by Hyal, disguised as a Shambler.
+* Lucia, Shar, and Gascoigne remain outside with the animals, along with Lance.
 
----
+### Dispatch!
+FLY WITH THE WIND
 
-Hyal's Revelation
-* Had a dream that he was in the library he remembers from long ago, and that he lived there for a long time.
-* He remembers looking up at Maegor's Peak through the window of his study.
-* He remembers that there was a book there which mentioned The Darkness. He thinks if he can reclaim that book, he'll get his memories back!
+The cart tilts backwards, revealing a hole in the earth behind Lazarus.
+Lazarus rises from the pile of bodies, pulling his arm free from a slush of entrails, and kneels face-to-face with a Shambler.
 
-Journey to Neral's Tower
-* The party journeys North, keeping close eye on the river to the West, and the White Woods to the Northeast.
-* They travel three hours unperturbed, climbing their way out of the fertile valley of Emory.
-* At around 2 miles out, they have an encounter with a scouting party from Neral's Tower.
-  * Four Ghouls on Horse. They're leisurely making a round of this area. It seems like they keep a perimeter around the space here.
-* In order to get close to the Tower, the party will need to either sneak past, defeat, or trick these folks and other scouting parties like them.
-  * There are five total scouting parties, four of which are active and one of which remains in the keep during the day. At night, all parties rest.
+(Alice's crew isn't quite around the building yet.)
 
-The Heist
-* The Heist should probably go smoothly, if the party comes up with a good plan.
+Behind him and Hyal, he sees the courtyard. A half-dozen shamblers silently peer at the ground.
+They haven't noticed the commotion, yet, but the nearest one is only 15 feet away.
+Lazarus has only a couple moments to dispatch the guy before he makes a racket or the others see.
 
-Davon's Keep
-* The Party approaches the keep proper at around midday.
-* The area around the keep is scourged. Burnt and sundered.
-* The landscape is mostly bare, but in the area around the keep, there's a sizable number of creatures.
-  * 30 Goblins, crawling in and out of small holes in the earth, and interacting with eachother when they encounter eachother.
-  * 10 Ghouls, some resting, but some are up, hauling human bodies using sleds.
-  * The party sees the Ghouls and their steeds haul a full cart of these bodies through the front gate and portcullis of the keep, then close it behind themselves.
-  * Finally, two Dark Beasts float high above the Keep, watching Maegor's Peak and the storm there. They're like Sentries.
-* The party can make a round of the Keep.
-  * The earth is bare for a half-mile in most directions.
-  * It's up on a hill, with wooden stakes busying the landscape at the foot of the keep.
-  * There appears to be sturdy walls all around the perimeter. Lance notices just one vulnerability to that - a sinking foundation on the Northern side, which could be pulled apart given some time.
-  * The walls are easily climbed by Alice, who could make her way in at any time.
-* Within the Keep, the party can sense Dark Magic.
+By the way, Hyal has a sword now, but he won't use it under any circumstances, unless his life is absolutely threatened.
 
-The Courtyard
-* A dozen Ghouls stand here, working at intricate carvings in the earth underfoot.
-* The Courtyard is an open area, with the walls climbing forty feet around you.
-* The main directions to go are in or around the main Hall, Up the stairs leading to the top of the walls, and into the great Spire of the Wizard's Tower.
+### Setting the Scene
+LONG PAST GONE
 
-The Body Pit
-* All the bodies are hauled from the piles outside to a back corner of the Courtyard.
-* Here, a few unlucky Ghouls remove the bodies, then take them through a secret underground tunnel into the basement of the great hall.
-* There's only a couple Ghouls in one location.
+Once it's clear that the scene is safe, Laz and Hyal hide and survey the interior courtyard.
+The rain pours, and the scene before you is as follows:
 
-The Lobby
-* An open space, with pedestals and carvings around the outside of the room.
-  * There used to be art and artifacts here, but now there is nothing but shattered ceramic and rent metal.
-    * You can see a spearhead, a broken staff, a torn cloak, etc.
-* A spiral stair in the corner of the room leads up to the tower proper.
+* Alice's group turns the corner around the back of the tower. They come upon a set of stables, where a pair of horses stand, rotting in their skin.
+  * They might spook, so they'll have to be careful. They can move unseen under the wall of the stables around to get a clear view of the front door of the tower.
 
-The Wizard's Tower
-* The place smells like... Hyal? Very close smell.
-* He's getting new memories all the time.
-* The Stairs lead upwards, where soggy papers are strewn all along the stairs.
-  * You can look out from the windows onto the courtyard below, and the Dark Beasts resting high above in the sky. They are aloof to your presence.
+* It looks like the Shamblers here are carving some intricate patterns into the packed earth of the yard.
+  They use picks made of those strange materials. It's a circle with runes they carve, and it goes deep with precision.
+  Strange patterns, irrational shapes, yet so precise it must have some order to it.
+  They move lifelessly, yet with intention behind every strike of the earth.
+  * They will notice individuals moving obviously in the courtyard, though perhaps you could time a quick movement across the courtyard if you percieve the group well.
 
-It's a library, filled with books.
-  * Eugenia and Lance get started right away, checking all the books they can.
-    * Books on Botany, Natural Philosophy, History. Mathematics.
-    * Some books of sorcery, but the real texts are in the Wizard's Chambers.
+* Behind Laz, the pit looms. Mud-water slops down into its opening, slowly wearing away at the edges of the open wound in the earth.
+  The top of The Pit is 30 feet down, meaning anyone dropping in will have to count on the bodies below softening their fall.
+  It appears to be a natural cavern below, pitch dark and rancid from the smell of flesh and rain. 
+  * It's a shaft straight down for a while, but you can see in the soft light that there appears to be more cavern through there.
+  * Just for simplicity, I'd estimate someone dropping in would take 4 damage if they land on the top of the pile.
 
-A Study, the room of Hyal.
-  * Fables, stories, and books of riddles.
-  * Hyal becomes emotional, and starts to remember things.
-  * "This was my home. Which means... I must have been taught by the wizard who lived here!"
-  * He still doesn't remember much about the wizard or why he left, how he came here, etc.
+* The Tower is solid stone, and it's cool to the touch.
+  * The door is stone, and is covered in runes. Eugenia can tell right away that it has a ward upon it.
+    * Hyal knows the solution! It's a passcode. The word is "Restore"
+    * Or, Eugenia can try to decipher it with a check.
 
-The Wizard's Chambers
-* Dark Magic Spells!
+* The Castle proper has another portcullis, with narrow slits for arrows.
+  The only clear way in to this building is if you can open that portcullis, or perhaps there's a way in on the roof.
+  * If someone peers within a slit or the portcullis, they will see that the building is occupied by Shamblers.
+  Quite a few in there, but they move individually, not in groups. Through the main portcullis, though, the party can see
+  * The other way in is through the Pit. It leads to the basement/bunker of the Castle, where refugees were often held in older wars.
+
+* The Beast remains in the sky, its form transluecent and shifting.
+  Alongside the rain, drips from it singe the earth below.
+  * It is sensitive to change, but not too much.
+  It's pretty much over for the party if the Dark Beast notices, since it acts with the will of Neral and will control all the Shamblers here.
+
+### Split up once more!
+794BDH
+
+The Portcullis opens once more. Another huge cart, pulled by two shamblers and assisted by two goblins, walk slowly towards the hole.
+Lazarus and Hyal cannot see them, as they're around the corner, but Alice's group communicates this to them.
+* The pit is in an alleyway, but behind it is sheer wall. They'll be cornered if they don't think of something.
+* They still have the half-full cart here with them, but only Lazarus and Hyal are here. Alice's group is across the courtyard, and would have difficulty sneaking over to help.
+* They have just a little time to decide whether to dispose of the group, hide in the cart, or something else.
+
+Hyal wants to go with the party up the tower. He'll have to find some way to get over there. He's still in costume.
+
+Lazarus might end up wanting to go with the group, but the only downside is that Alice can only sneak a couple with her.
+Anyways, we want to do both at once, and bounce between them, but if we have to do one at a time, that's okay too.
+
+The party makes their way towards the points of interest - the Tower and the Castle (or the Pit)
+
+### The Tower Lobby
+FIRE DANCE
+
+The interior of the tower is covered in dust. This place has been sealed for at least a couple years. Musty smell.
+A tea-kettle hangs from the roof, and floor-chairs surround a central fire pit here.
+* Hyal remembers this place. He finds traces of tea leaves on the floor - Jasmine.
+* The Stairs lead upwards, where dusty papers are strewn all along the stairs. They're torn, wet, and dusty.
+  Water has crept in through each arrow slit, and each window.
+  * You can look out from the windows onto the courtyard below. The carvings still make little sense to you.
+
+You climb the stairs curling around the interior wall of the tower, and find yourself on a second floor.
+* Here, a ladder rises higher, nearly to the top of the tower, alongside a string/pulley system with a wooden basket.
+* On this floor, there's a door leading to the majority of this floor. The Library.
+* Above, halfway up the tower, there's a platform with a door which leads to Hyal's Study.
+
+### The Library
+GNOSIENNE
+
+It's a library. Some books remain, but many are burnt or torn to pages.
+Eugenia gets started right away, checking all the books they can.
+* Books on Botany, Natural Philosophy, History. Mathematics.
+* Some books of sorcery, but not much.
+
+Hyal has a memory... He seems to remember where the book was! It's behind a hidden back panel to a bookshelf.
+But when he opens it, it's gone!
+* Otherwise, behind this false panel, there is one book of interest...
+  A Book of Advanced Magic Spells! Since Eugenia is growing in power, these spells can be easily learnt in a short time.
+  * Transmute | Convert HP into SP
+  * Teleport | Travel long distances, at great strain to the self.
   * Counter Spell
+
+* Along with those spells, Eugenia can learn Dark Magic.
+  To learn Dark Magic is to halve your lifespan. It's a choice! She gets all or nothing!
+  Dark Magic
   * Murder
-  * Reincarnate
-  * Flux
+  * Flux | Spread disease, a pox which will kill any creature without cure in 10 hours. It can be contagious to those who touch the diseased.
+  * Reincarnate | Revive an intelligent creature as a zombie.
 
-Revelation of Hyal's Memories
 
-Trap!
-* Hyal turns, or maybe the two Horsemen show up, or Neral has set a trap. It would be really cool to put the players in the trunk and start driving the car.
+### The Study (Hyal's Room)
+LANTERN
 
-Fight!
-* The Sworn Swords protect Eugenia. The party is divided. Overwhelmed. The center cannot hold.
+It's a small nook of a room. A child's room, really. Fables, stories, and books of riddles pack the shelves.
 
-Separation of the group?
-* In the climactic battle, a great explosion is set to go off, but Eugenia has the chance to warp everyone away with her new spells, though she doesn't know where to.
-I love the idea of choosing pairs to travel now, and making people have to work on their own to survive for a time.
+Hyal becomes emotional, and starts to remember things.
+* "The Mystical Land of Elturel"... wow, this book meant so much to him. How could he have forgotten it?
+* A time when he fell asleep at his desk, and his mentor covered him in a blanket.
+* His bed.. it even still smells like him. It's neatly made.
+
+PAUSE
+
+He comes to the end of his memories. He can remember that he had a mentor, who was the wizard of this tower, but he seems to still have a block.
+
+If the party tries to investigate a little further, they might be able to jog some memory.
+Pick a word, and have Hyal laser in on that.
+* He remembers one little thing. An undefined spot in his memory. Unthinkingly, he steps towards his desk, and pulls the knife from his hip.
+  He pries off the oak of the desk, and underneath, there is a letter.
+* Once Hyal sees the symbol left on the letter, his memories all return.
+  He crumples to the ground, unconscious, then returns quickly.
+  Once he wakes up, he completely changes his demeaner, even his face.
+
+He looks, determinedly, into the eyes of Asha. "I remember everything."
+
+
+### The Pit
+The bodies are piled high. Eighty, at least. They're in various stages of decay.
+
+There are no shamblers here, though there are terrifying Corpse-Spiders. Enough to challenge a couple adventurers.
+
+
+### The Castle Lobby
+MADNESS
+
+The room is in ruins.
+* There used to be art and artifacts here, but now there is nothing but shattered ceramic and rent metal.
+  You can see a spearhead, a broken staff, a torn cloak, etc.
+  * It's the place Eugenia saw Lady Cerwyn in her vision!
+* Eight Shamblers stand in various postures, like frozen statues, in the middle of the room.
+* A spiral stair in the corner of the room leads down into the Bunker.
+
+
+### The Crypt
+Here, where the dead of long ages are buried, There is only one creature's corpse above ground. Lady Cerwyn.
+
+She lies here, with her heart pierced by a ruby blade. Crumpled on her knees, her corpse leans sideways against the largest crypt.
+* That of King Waylon, one of the first kings of the people to one day be known as Errol.
+* Around her wound, the decay has stopped in a near-perfect ring around the gash.
+  * The Ruby Blade has the property of removing the Curse of Undeath from any being.
+
+* I want the spirit of Cerwyn to shine through here, so the party can get answers as to her involvement, too.
+  Up to you what the best way to do this is.
+
+
+### The Whole Story
+WIND SCENE
+
+Hyal details his history here.
+
+* He was born during the Shattering.
+  * The Goblins? 
+
+  * He lived through the Compromise, when Men lived in the West, and Myelar in the East. He remembers what happened next now.
+  * The Men in the East invaded. He saw violence. His family left their home and went north, which was once verdant and green as the rest of the continent.
+
+* He recalls that there was a compromise among the people of the Myelar. "The Exodus"
+  * They were to seal all the darkness, the corruption away deep under the earth. The Goblins, Shamblers, and cruelty.
+  * They were to foster groups of shepherds, who could lead Men, with some of the powers the Myelar possessed. Sorcerers and Sorceresses.
+  * Then, when all is done, they were to leave the land to the likes of Man.
+  * He remembers his mother little, and she left him in the Exodus.
+
+* Once the Myelar left, there were only a spare few left. Only those who chose to remain behind and be stewards of the land.
+* The North became frozen, frigid... A wasteland. Hyal tried to be a steward to men, but they were so different that he could not befriend them.
+
+He changes his tone.
+
+MAENEM
+
+* He lived many long years, alone, in repose. In wonder at the world the Men built. How strange it was.
+* He began to see that the Men would conquer all, that they would inhabit the structures of the Myelar. They would defile them.
+* He saw their wars, their famines, and he was powerless to stop them.
+* He saw the Exodus as a tragedy. The worst mistake of history. The world without the Myelar was set to rot, to die in filth and earth.
+* He went into solitude, meditating on his rage for long years.
+* He was frozen into a block of ice, lost to time.
+* After nearly 1000 years, A group of Lankhmari miners found him. That's when Neral showed up, and adopted Hyal.
+* He was an austere man, different from the rest. He felt that the world was rotten, just like Hyal.
+  * Neral was a master wizard of Story, History, Memory. His specialty was on altering memories, recalling histories, and changing sentiment.
+
+* Hyal's education began. He learned about the ways of the world.
+* He had long discussions with Neral about the Myelar, the Exodus, and The Shattering.
+* Neral informed Hyal of a... different possibility that history did not make come to pass.
+
+JAPANESE SONG
+
+* Hyal describes "The Cleansing".
+  * It matches up well with the apocalypse happening now.
+  * Hyal denies being for the cleansing now, stating that he changed his mind later. He seems genuinely sorry for his prior beliefs.
+* He went with Neral on a journey around the continent, to see the various locations of Myelar history.
+  They went on archeological digs throughout the Four Kingdoms, eventually setting off for the Wastes.
+* They found, at the foot of the End of the World, something terrifying.
+  The seal with which the Myelar held the Darkness.
+  * (Lazarus might know something about this. The End of the World is forbidden by Nefud as an accursed place, with good reason.)
+
+* Neral wanted to release the seal, complete The Cleansing, and bring the world to its final, austere end. To bring Death to this miserable place.
+* Hyal, realizing what that entailed, objected. He opposed Neral's will.
+  But Neral, a grandmaster wizard, was able to defeat Hyal, cursing him to lose his memory.
+  * Hyal, thankfully, left himself that letter, since he had suspected that Neral might cast such a spell on him someday.
+  * The letter had the counter-rune for the curse of Memory.
+
+### Neral's Study
+LONG PAST GONE
+
+The trapdoor opens into a large room. It's a laboratory.
+Implements for various chemical experiments litter the tables.
+The walls are covered in charts of the stars, and of pages from books / notes.
+
+The floor has a painted circle for spell-casting, though its pattern is unfamiliar to you, Eugenia.
+(Hyal will lie if he is asked about it).
+
+Nearly everything is burnt, smashed, or wrecked.
+
+Hyal remembers this place, too. He says this is where Neral and he would have discussions.
+He says they cleared out all they could find before they left to the wastes.
+They didn't want their research to be found and misinterpreted.
+
+### The Betrayal
+DARKENING GROUND
+
+This is where Hyal turns the tables on the party.
+He will have some scheme to take Asha hostage, and the rest he will make demands of.
+
+There are some pretty foolproof spells which Hyal can use, since he has his memories and his spells back.
+He claims to be able to kill any single one of them with a look.
+He can freeze the room here in time.
+He can summon Dark Beasts.
+He can counter Eugenia's spells.
+
+
+Either...
+* He tries to teleport the party to a faraway place, as he doesn't want them to get hurt, but he cannot have them interfering.
+* He tries to kill the party, but they manage to escape by using the teleportation circle.
+
+Or alternatively,
+* Neral's trap is sprung, warping all four of the group, including Hyal himself.
+(This is for if you don't want to make Hyal the villain).
+
+When the warp occurs, there is a great flash of blue light from the top of the tower. All can see.
+
+The rain pours. A storm brews. Lance / Shar are stunned. Just a moment before, the skies were just gray, but now a great Tempest has appeared.
+
+### The Escape
+???
+
+As the remaining two leave the complex, they recieve word of what has happened, and must cope with that.
+The Escape should be trivial, but the big circle might still be dealt with, etc.
+
+The Storm begins, and the Dark Beast will be extra strong / watchful.
 
 ---
 
@@ -129,20 +320,19 @@ The Party:
 ---
 
 ## Next
-
 * Fort Moonstone
   * Landscape nearby the place is just filled with goblins, beasts, you name it.
   * The rain comes down like sheets here. It's like an eye in the storm.
+  * I want Rain to be on his last legs, but he can help the non-magics contact Eugenia's group again.
 
-* The final push
-  * Neral's Keep, The place where Hyal and Neral did their research. Hyal's memory will be returned if they go here. The party will gain valuable information.
-  * Fort Moonstone, then on to Maegor's Peak.
-  * Perhaps onwards to The Village of Khmer?
+We need Ser Robyn and Leonster to show up in Session 20 and give another nail in the coffin for the party.
+
+Eugenia's Party will encounter a situation in Session 20 where Alice has to risk her own life to save the magics.
 
 ## Characters
 * Mort the Dog
-* Bucket the Baby
 * Hyal, Myelar Prince
+* Shar and Gascoigne, Blades of Katalon, the Retinue of Prince Faisal, sworn to protect Lady Eugenia.
 
 Umber
 * Lady Cerwyn
@@ -176,17 +366,18 @@ Khmer
 
 Nefud
 * Faisal, Prince of Katalon
-* Shar and Gascoigne, Blades of Katalon, the Retinue of Prince Faisal. These two are now sworn to Lady Eugenia.
 
 Emory
 * Captain Moss
 * Pascal, guard of Errol - has become a desert warrior.
 * Serra - Wife of Pascal
 
+* Bucket the Baby - saved by the party.
+
 * Lem, Head of the Shadow Guild in the West
 * Ivory, fingerless shadow guild member.
 
-* Carpet Eater
+* Carpet Eater and his gang, turned Shamblers.
 
 Helios
 * Lowain Fairheart - Deceased.
