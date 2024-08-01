@@ -65,6 +65,7 @@ The rain pours, and the scene before you is as follows:
   Strange patterns, irrational shapes, yet so precise it must have some order to it.
   They move lifelessly, yet with intention behind every strike of the earth.
   * They will notice individuals moving obviously in the courtyard, though perhaps you could time a quick movement across the courtyard if you percieve the group well.
+* The 
 
 * Behind Laz, the pit looms. Mud-water slops down into its opening, slowly wearing away at the edges of the open wound in the earth.
   The top of The Pit is 30 feet down, meaning anyone dropping in will have to count on the bodies below softening their fall.
@@ -320,12 +321,18 @@ The Party:
 ---
 
 ## Next
+Party 1 goes to Moonstone.
+Party 2 leaves Khmer.
+
 * Fort Moonstone
   * Landscape nearby the place is just filled with goblins, beasts, you name it.
   * The rain comes down like sheets here. It's like an eye in the storm.
   * I want Rain to be on his last legs, but he can help the non-magics contact Eugenia's group again.
 
 We need Ser Robyn and Leonster to show up in Session 20 and give another nail in the coffin for the party.
+
+Sha'virr and Neral are duking it out over the Precipice.
+Sha'virr can contact Eugenia when he is in dire straits.
 
 Eugenia's Party will encounter a situation in Session 20 where Alice has to risk her own life to save the magics.
 
